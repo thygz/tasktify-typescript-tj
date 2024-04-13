@@ -111,6 +111,7 @@
 
 .drag {
     box-shadow: 0 0 20px black;
+    display: flex;
 }
 
 @media (max-width: 1100px) {
